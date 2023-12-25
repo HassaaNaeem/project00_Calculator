@@ -1,6 +1,7 @@
 {
   "name": "project00_calculator",
   "version": "1.0.0",
+  "type": "module",
   "description": "Presenting a versatile TypeScript Calculator, seamlessly integrating NPM Inquirer for an interactive command-line experience. Users can effortlessly perform a range of operations, including addition, subtraction, multiplication, division, and exponentiation. Input your expressions—first number, operator, and second number—then witness instant, accurate results. The calculator's intelligent design, powered by if-else statements, ensures reliability in calculations, while the inclusion of for loops allows users to execute multiple operations in a single program run. Elevate your mathematical tasks with the comprehensive functionality of the TypeScript Calculator.",
   "main": "main.js",
   "scripts": {
